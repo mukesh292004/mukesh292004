@@ -3,15 +3,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_VaHiddzuonKB3Y2hhQAGptsb_HmXJleJg&usqp=CAU">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mukesh292004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
+
 
 - 🌱 I’m currently learning **React.js, Node.js, Docker, Nginx**
 
 - 💬 Ask me about **Full-Stack Development**
 
 - 📫 How to reach me: **mukeshnkl2004@gmail.com**
+  
+- 🌐 My personal website: [mukesh.tech](https://mukesh.tech)
 
 - ⚡ Fun fact: **I can write code that's so efficient it once made my computer blush! 💻😊**
 
